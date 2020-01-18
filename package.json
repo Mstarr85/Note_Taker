@@ -16,8 +16,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "fs": "0.0.1-security",
-    "mysql": "^97c1b85783",
-    "util": "^0.12.1"
-
+    "util": "^1.0.1"
   }
 }
