@@ -9,13 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Mstarr85/Note_Taker.git"
   },
   "author": "Matthew Starr",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "fs": "0.0.1-security",
-    "util": "^1.0.1"
+    "fs": "0.0.1-security"
   }
 }
