@@ -1,7 +1,7 @@
 # Note_Taker
 
 ## Description
-A simple not taking app that you can add, save and delete notes
+A simple note taking app that you can add, save and delete notes
 
 ## User Story
 
