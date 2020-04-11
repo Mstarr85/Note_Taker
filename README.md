@@ -4,6 +4,8 @@
 <img width="1440" alt="Screen Shot 2020-04-11 at 5 19 30 PM" src="https://user-images.githubusercontent.com/53281244/79055275-c509c580-7c19-11ea-89a4-939a40553683.png">
 
 
+<img width="1440" alt="Screen Shot 2020-04-11 at 5 22 00 PM" src="https://user-images.githubusercontent.com/53281244/79055301-0601da00-7c1a-11ea-9e81-3de9be0fb9ff.png">
+
 
 
 # Note_Taker
