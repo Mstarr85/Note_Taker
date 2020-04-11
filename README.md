@@ -6,7 +6,7 @@
 
 <img width="1440" alt="Screen Shot 2020-04-11 at 5 22 00 PM" src="https://user-images.githubusercontent.com/53281244/79055301-0601da00-7c1a-11ea-9e81-3de9be0fb9ff.png">
 
-
+<img width="1440" alt="Screen Shot 2020-04-11 at 5 22 07 PM" src="https://user-images.githubusercontent.com/53281244/79055321-347fb500-7c1a-11ea-8796-27838b622e6b.png">
 
 # Note_Taker
 
