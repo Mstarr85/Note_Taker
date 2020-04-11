@@ -1,3 +1,6 @@
+<img width="1440" alt="Screen Shot 2020-04-11 at 5 19 23 PM" src="https://user-images.githubusercontent.com/53281244/79055223-5462a900-7c19-11ea-8c86-c6e0d17c7646.png">
+
+
 # Note_Taker
 
 ## Description
