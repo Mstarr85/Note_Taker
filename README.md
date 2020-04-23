@@ -36,7 +36,7 @@ A simple note taking app that user can add, save and delete notes
 
  https://mstarr85-note-taker.herokuapp.com/
 
- ## Instructions
+ ## How It Works
 
  * Click on Get Started
  
